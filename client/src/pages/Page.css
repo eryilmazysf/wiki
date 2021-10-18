@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+.edit {
+  text-align: center;
+}
+
+button {
+  padding: 0.5rem;
+  width: 10rem;
+  border-radius: 1rem;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.noArticle {
+  text-align: center;
+}
+.content {
+  width: 50%;
+  height: 300px;
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 2rem;
+  text-align: center;
+}
+.goHome {
+  text-align: center;
+}

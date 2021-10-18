@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+button {
+  margin: 10px;
+}
+.formContainer {
+  text-align: center;
+}
+.buttonContainer {
+  text-align: center;
+  margin: 1rem auto;
+}
+.content {
+  width: 50%;
+  height: 300px;
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 2rem;
+  text-align: center;
+}
